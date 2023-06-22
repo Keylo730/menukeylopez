@@ -1,0 +1,69 @@
+
+body {
+    background-color: #e682bf;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.navbar {
+    margin-bottom: 10px;
+    background-color: #E75095 !important;
+    
+}
+
+navbar-img{
+    width: 40%;
+    height: 40%;
+    
+}
+
+
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
+h6{
+    color:  #ee217d;
+    font-family: 'Patrick Hand', cursive;
+}
+
+footer {
+	background-color: #E75095;
+	margin-top: 30px;
+	padding: 10px 0;	
+    font-family: 'Patrick Hand', cursive;
+	
+}
+
+footer p {	
+	color: white;
+	font-size: 14px;
+	font-family: 'Patrick Hand', cursive;
+}
+
+
+.tabla-menu {
+    --bs-table-bg: transparent
+}
+
+
+td.precio{
+
+    color: #ee217d;
+    font-weight: bold;
+}
+
+
+p{
+    color: white;
+}
+
+
+th.platillo{
+    color: white;
+    font-weight: bold;
+}
